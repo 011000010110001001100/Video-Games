@@ -1,0 +1,15 @@
+import pyautogui
+import time
+for x in range (0,1):
+            
+                    #play
+                    time.sleep(0.5)
+                    pyautogui.click(50, 1042)
+                    time.sleep(0.08)
+                    pyautogui.click(1124, 715)
+                    time.sleep(1)
+                    pyautogui.click(13, 1059)
+                    time.sleep(0.1)
+                    pyautogui.click(12, 1007)
+                    time.sleep(0.1)
+                    pyautogui.click(18, 971)
